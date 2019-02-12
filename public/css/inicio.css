@@ -1,0 +1,18 @@
+html {
+    height:100%;
+    width:100%;
+}
+
+
+body{
+	background: url('/imagenes/10.gif');
+	background-size: 100% 100%;
+}
+
+.barraNav{
+	background-color: #0b385d;
+}
+.texBarNav{
+	color: #fff;
+	padding-left: 20px;
+}
