@@ -91,7 +91,7 @@
         <script src="{{ asset('js/examen.js') }}"></script>
 
 
-  <!--<footer class="section footer-classic context-dark bg-image" style="background: #2d3246;">
+  <footer class="section footer-classic context-dark bg-image" style="background: #2d3246;">
           <div class="container">
             <div class="row row-30">
               <div class="col-md-4 col-xl-5">
@@ -135,6 +135,6 @@
             <div class="col"><a class="social-inner" href="#"><span class="icon mdi mdi-twitter"></span><span>twitter</span></a></div>
             <div class="col"><a class="social-inner" href="#"><span class="icon mdi mdi-youtube-play"></span><span>google</span></a></div>
           </div>
-  </footer>-->
+  </footer>
 </body>
 </html>
